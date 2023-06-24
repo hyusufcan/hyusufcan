@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Yusuf. I am a physics student at Marmara University. I am interested in data science, artificial intelligence and machine learning and would like a career in these fields.
+I am Yusuf. I am a student at Marmara University. I am interested in data science, artificial intelligence and machine learning and would like a career in these fields.
 
 
 ## 🌐 Socials:
