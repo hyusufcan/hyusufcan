@@ -40,7 +40,7 @@ A physicist focused on hardware-software integration, bridging physical theory w
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hyusufcan&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=hyusufcan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
