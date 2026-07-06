@@ -31,11 +31,8 @@ A physicist focused on hardware-software integration, bridging physical theory w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-### 🔝 Top Contributed Repo
-
-
-[![Top Repo](https://img.shields.io/badge/Archivist_/_Bibliotheca_Antiqua-Active_Development-fb4362?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyusufcan/archivist)
+### 🔝 Top Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hyusufcan&layout=compact&langs_count=3&theme=dark&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&bg_color=151515&hide_border=true)
 
 ---
 
