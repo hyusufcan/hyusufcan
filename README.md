@@ -15,6 +15,8 @@
   <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
@@ -33,13 +35,13 @@
 
 <h3>Random Dev Quote</h3>
 <p align="left">
-  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=dark&color=fb4362" alt="Programming Quote" />
+  <!-- Kararlı çalışan alternatif tırnak işareti servisi -->
+  <img src="https://go-quotes.onrender.com/v1/quote?theme=dark&color=fb4362" alt="Programming Quote" />
 </p>
 
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyusufcan&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Hayrettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyusufcan&hide_border=true&show_icons=true&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&bg_color=151515)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyusufcan&layout=compact&hide_border=true&title_color=fb4362&text_color=9e9e9e&bg_color=151515)
+<!-- Vercel hatası vermeyen, doğrudan GitHub verisiyle beslenen dinamik metrik grafiği -->
+![Hayrettin's GitHub Metrics](https://github-readme-activity-graph.vercel.app/graph?username=hyusufcan&bg_color=151515&color=fb4362&line=fb4362&point=ffffff&area=true&hide_border=true)
