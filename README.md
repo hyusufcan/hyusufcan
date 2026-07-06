@@ -34,8 +34,8 @@ A physicist focused on hardware-software integration, bridging physical theory w
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=hyusufcan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=hyusufcan&repo=archivist&theme=dark&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&bg_color=151515)](https://github.com/hyusufcan/archivist)
 
 
 ---
